@@ -1,6 +1,6 @@
-Hi, I'm a Ukranian Software Developer with DevOps skills.
-I was not born a programmer - I was a lawyer and a university professor, but my work was always closely related to IT. That's my hobby, my passion,  and I'm sure my calling.
-Here you can find some of my projects that I am working on.
+Hi, I'm a Ukranian Software Developer with DevOps skills. <br>
+I was not born a programmer - I was a lawyer and a university professor, but my work was always closely related to IT. That's my hobby, my passion,  and I'm sure my calling. <br>
+Here you can find some of my projects that I am working on. <br>
 Kindly note that I have a website with a portfolio  - klmk.tech
 
 <!---
